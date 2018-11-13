@@ -1,0 +1,13 @@
+∏˘æ›øº ‘◊¥Ã¨≈–∂œ
+//                        if ($row['exam_status'] == 1) {
+//                            $sub_grade = $row['grade'];
+//                            header("location:login.html?query=success&grade=" . $sub_grade);
+//                        }
+//                        else if ($row['exam_status'] == 0) {
+//                            $sub_grade = "Œ¥≤Œ”Îøº ‘1";
+//                            header("location:login.html?query=success&grade=" . $sub_grade);
+//                        }
+//                        else {
+//                            $sub_grade = "Œ¥≤Œ”Îøº ‘2";
+//                            header("location:login.html?query=success&grade=" . $sub_grade);
+//                        }
